@@ -5,10 +5,14 @@ repo: monitoring # The name of this repository
 sites:
   - name: Wouter Planet
     url: https://www.wouterplanet.com
+  - name: API
+    url: https://api.wouterplanet.com    
   - name: CDN
     url: https://cdn.wouterplanet.com
   - name: CDN Alpha
     url: $URL_ALPHA
+  - name: Blog
+    url: https://blog.wouterplanet.com
   - name: Wouter Planet Cloud
     url: https://cloud.wouterplanet.com
   - name: Home-Net
@@ -25,7 +29,6 @@ workflowSchedule:
   updates: "0 3 * * *"
   uptime: "*/10 * * * *"
   
-robotsText: "User-agent: * \n Disallow: /"
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -35,8 +38,9 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   baseUrl: /monitoring
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Wouter Planet Status page. Uses Github actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Status page for **Wouter Planet** and related services."
+  introMessage: Uses Github actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  robotsText: "User-agent: * \n Disallow: /"
   navbar:
     - title: Status
       href: /
