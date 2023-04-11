@@ -10,12 +10,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 110,
-    "timeDay": 110,
-    "timeWeek": 110,
-    "timeMonth": 110,
-    "timeYear": 110,
+    "time": 97,
+    "timeDay": 97,
+    "timeWeek": 97,
+    "timeMonth": 97,
+    "timeYear": 97,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "API",
+    "url": "https://api.wouterplanet.com",
+    "icon": "https://icons.duckduckgo.com/ip3/api.wouterplanet.com.ico",
+    "slug": "api",
+    "status": "down",
+    "uptime": "0.33%",
+    "uptimeDay": "0.33%",
+    "uptimeWeek": "0.33%",
+    "uptimeMonth": "0.33%",
+    "uptimeYear": "0.33%",
+    "time": 403,
+    "timeDay": 403,
+    "timeWeek": 403,
+    "timeMonth": 403,
+    "timeYear": 403,
+    "dailyMinutesDown": {
+      "2023-04-11": 3
+    }
   },
   {
     "name": "CDN",
@@ -28,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 665,
-    "timeDay": 665,
-    "timeWeek": 665,
-    "timeMonth": 665,
-    "timeYear": 665,
+    "time": 672,
+    "timeDay": 672,
+    "timeWeek": 672,
+    "timeMonth": 672,
+    "timeYear": 672,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +66,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 177,
-    "timeWeek": 177,
-    "timeMonth": 177,
-    "timeYear": 177,
+    "time": 139,
+    "timeDay": 139,
+    "timeWeek": 139,
+    "timeMonth": 139,
+    "timeYear": 139,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Blog",
+    "url": "https://blog.wouterplanet.com",
+    "icon": "https://icons.duckduckgo.com/ip3/blog.wouterplanet.com.ico",
+    "slug": "blog",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 4414,
+    "timeDay": 4414,
+    "timeWeek": 4414,
+    "timeMonth": 4414,
+    "timeYear": 4414,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +97,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.wouterplanet.com.ico",
     "slug": "wouter-planet-cloud",
     "status": "down",
-    "uptime": "17.95%",
-    "uptimeDay": "17.95%",
-    "uptimeWeek": "17.95%",
-    "uptimeMonth": "17.95%",
-    "uptimeYear": "17.95%",
+    "uptime": "2.54%",
+    "uptimeDay": "2.54%",
+    "uptimeWeek": "2.54%",
+    "uptimeMonth": "2.54%",
+    "uptimeYear": "2.54%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-11": 7
+      "2023-04-11": 58
     }
   },
   {
@@ -79,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-net",
     "status": "down",
-    "uptime": "18.49%",
-    "uptimeDay": "18.49%",
-    "uptimeWeek": "18.49%",
-    "uptimeMonth": "18.49%",
-    "uptimeYear": "18.49%",
+    "uptime": "2.21%",
+    "uptimeDay": "2.21%",
+    "uptimeWeek": "2.21%",
+    "uptimeMonth": "2.21%",
+    "uptimeYear": "2.21%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-11": 6
+      "2023-04-11": 57
     }
   }
 ]
