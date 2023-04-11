@@ -17,6 +17,7 @@ sites:
     url: https://cdn.wouterplanet.com
   - name: CDN Alpha
     url: $URL_ALPHA
+    icon: https://i.imgur.com/DCvRMIp.png
   - name: CDN Orange
     url: $URL_CNDORANGE
   - name: Home-Net
