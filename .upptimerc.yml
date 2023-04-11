@@ -5,16 +5,20 @@ repo: monitoring # The name of this repository
 sites:
   - name: Wouter Planet
     url: https://www.wouterplanet.com
+  - name: Merch Site
+    url: https://merch.wouterplanet.com
+  - name: Blog
+    url: https://blog.wouterplanet.com
+  - name: Wouter Planet Cloud
+    url: https://cloud.wouterplanet.com
   - name: API
     url: https://api.wouterplanet.com    
   - name: CDN
     url: https://cdn.wouterplanet.com
   - name: CDN Alpha
     url: $URL_ALPHA
-  - name: Blog
-    url: https://blog.wouterplanet.com
-  - name: Wouter Planet Cloud
-    url: https://cloud.wouterplanet.com
+  - name: CDN Orange
+    url: $URL_CNDORANGE
   - name: Home-Net
     check: "tcp-ping"
     url: $URL_HOMENET #Secret
