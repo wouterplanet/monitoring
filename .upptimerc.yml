@@ -7,10 +7,14 @@ sites:
     url: https://www.wouterplanet.com
   - name: CDN
     url: https://cdn.wouterplanet.com
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: CDN Alpha
+    url: $URL_ALPHA
+  - name: Wouter Planet Cloud
+    url: https://cloud.wouterplanet.com
+  - name: Home-Net
+    check: "tcp-ping"
+    url: $URL_HOMENET #Secret
+    port: $PORT_HOMENET
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -21,7 +25,7 @@ status-website:
   name: Upptime
   baseUrl: /monitoring
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Wouter Planet Status page. Uses Github actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
