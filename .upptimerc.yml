@@ -20,6 +20,10 @@ sites:
     icon: https://i.imgur.com/DCvRMIp.png
   - name: CDN Orange
     url: $URL_CNDORANGE
+  - name: Administration
+    url: $URL_ADMINISTRATION
+  - name: Fun Delivery Service
+    url: $URL_FUN
   - name: Home-Net
     check: "tcp-ping"
     url: $URL_HOMENET #Secret
