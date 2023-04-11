@@ -41,7 +41,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Wouter Planet - Upptime
-  customHeadHtml: "<meta http-equiv='refresh' content='30' />"
+  customHeadHtml: "<meta http-equiv='refresh' content='600' />"
   baseUrl: /monitoring
   introTitle: "Status page for **Wouter Planet** and related services."
   introMessage: Uses Github actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
