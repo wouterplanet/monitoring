@@ -15,7 +15,18 @@ sites:
     check: "tcp-ping"
     url: $URL_HOMENET #Secret
     port: $PORT_HOMENET
-
+    
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/10 * * * *"
+  
+robotsText: "User-agent: * \n Disallow: /"
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
