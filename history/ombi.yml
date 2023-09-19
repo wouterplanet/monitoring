@@ -1,7 +1,7 @@
 url: https://ombi.wouterplanet.com
-status: down
-code: 502
-responseTime: 938
-lastUpdated: 2023-09-19T20:16:39.050Z
+status: up
+code: 200
+responseTime: 545
+lastUpdated: 2023-09-19T20:26:49.203Z
 startTime: 2023-09-06T14:49:55.866Z
 generator: Upptime <https://github.com/upptime/upptime>
