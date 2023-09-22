@@ -6,18 +6,16 @@
     "slug": "wouter-planet",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
     "timeDay": 107,
     "timeWeek": 97,
     "timeMonth": 102,
     "timeYear": 108,
-    "dailyMinutesDown": {
-      "2023-09-21": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Merch Site",
@@ -135,11 +133,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ombi.wouterplanet.com.ico",
     "slug": "ombi",
     "status": "up",
-    "uptime": "61.89%",
+    "uptime": "62.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "61.89%",
-    "uptimeYear": "61.89%",
+    "uptimeMonth": "62.01%",
+    "uptimeYear": "62.01%",
     "time": 653,
     "timeDay": 480,
     "timeWeek": 615,
