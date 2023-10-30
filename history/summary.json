@@ -183,19 +183,19 @@
     "url": "$URL_ALPHA",
     "icon": "https://i.imgur.com/DCvRMIp.png",
     "slug": "cdn-alpha",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 105,
-    "timeDay": 97,
-    "timeWeek": 101,
-    "timeMonth": 107,
+    "timeDay": 109,
+    "timeWeek": 105,
+    "timeMonth": 108,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2023-10-30": 0
+      "2023-10-30": 30
     }
   },
   {
