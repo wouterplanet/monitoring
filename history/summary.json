@@ -252,19 +252,19 @@
     "url": "$URL_FUN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fun-delivery-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1120,
-    "timeDay": 251,
-    "timeWeek": 203,
+    "time": 1116,
+    "timeDay": 231,
+    "timeWeek": 204,
     "timeMonth": 202,
-    "timeYear": 1120,
+    "timeYear": 1116,
     "dailyMinutesDown": {
-      "2023-12-31": 0
+      "2023-12-31": 12
     }
   },
   {
