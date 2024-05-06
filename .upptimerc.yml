@@ -26,6 +26,8 @@ sites:
     url: $URL_ADMINISTRATION
   - name: Fun Delivery Service
     url: $URL_FUN
+  - name: NAS
+    url: https://nas.wouterplanet.com
   - name: Home-Net
     check: "tcp-ping"
     url: $URL_HOMENET #Secret
