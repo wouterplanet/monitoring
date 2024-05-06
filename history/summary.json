@@ -137,7 +137,7 @@
     "slug": "ombi",
     "status": "up",
     "uptime": "90.65%",
-    "uptimeDay": "13.29%",
+    "uptimeDay": "13.32%",
     "uptimeWeek": "1.90%",
     "uptimeMonth": "60.93%",
     "uptimeYear": "90.65%",
@@ -330,7 +330,7 @@
     "timeMonth": 143,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2024-05-06": 788,
+      "2024-05-06": 789,
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
