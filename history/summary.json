@@ -94,7 +94,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.wouterplanet.com.ico",
     "slug": "wouter-planet-cloud",
     "status": "down",
-    "uptime": "44.38%",
+    "uptime": "44.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -105,7 +105,8 @@
     "timeMonth": 0,
     "timeYear": 1061,
     "dailyMinutesDown": {
-      "2025-06-22": 1425,
+      "2025-06-23": 86,
+      "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
@@ -468,8 +469,7 @@
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
-      "2024-06-24": 1440,
-      "2024-06-23": 1440
+      "2024-06-24": 1440
     }
   },
   {
@@ -573,18 +573,19 @@
     "icon": "https://i.imgur.com/DCvRMIp.png",
     "slug": "cdn-alpha",
     "status": "down",
-    "uptime": "81.07%",
+    "uptime": "81.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.34%",
+    "uptimeYear": "58.32%",
     "time": 126,
     "timeDay": 208,
     "timeWeek": 134,
     "timeMonth": 135,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2025-06-22": 1425,
+      "2025-06-23": 86,
+      "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
@@ -773,7 +774,7 @@
     "slug": "administration",
     "status": "up",
     "uptime": "98.95%",
-    "uptimeDay": "41.86%",
+    "uptimeDay": "48.83%",
     "uptimeWeek": "66.27%",
     "uptimeMonth": "92.19%",
     "uptimeYear": "97.81%",
@@ -877,7 +878,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-net",
     "status": "down",
-    "uptime": "63.06%",
+    "uptime": "63.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -888,7 +889,8 @@
     "timeMonth": 0,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-06-22": 1426,
+      "2025-06-23": 86,
+      "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
@@ -1100,8 +1102,7 @@
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
-      "2024-06-24": 1440,
-      "2024-06-23": 1440
+      "2024-06-24": 1440
     }
   }
 ]
