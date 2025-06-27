@@ -96,7 +96,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.wouterplanet.com.ico",
     "slug": "wouter-planet-cloud",
     "status": "down",
-    "uptime": "44.16%",
+    "uptime": "44.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -107,7 +107,8 @@
     "timeMonth": 0,
     "timeYear": 1029,
     "dailyMinutesDown": {
-      "2025-06-26": 1430,
+      "2025-06-27": 82,
+      "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -470,8 +471,7 @@
       "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
-      "2024-06-28": 1440,
-      "2024-06-27": 1440
+      "2024-06-28": 1440
     }
   },
   {
@@ -576,18 +576,19 @@
     "icon": "https://i.imgur.com/DCvRMIp.png",
     "slug": "cdn-alpha",
     "status": "down",
-    "uptime": "80.67%",
+    "uptime": "80.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "57.24%",
+    "uptimeYear": "57.22%",
     "time": 126,
     "timeDay": 112,
     "timeWeek": 129,
     "timeMonth": 131,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2025-06-26": 1430,
+      "2025-06-27": 82,
+      "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -779,18 +780,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "administration",
     "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "45.45%",
-    "uptimeWeek": "44.10%",
-    "uptimeMonth": "85.07%",
-    "uptimeYear": "98.76%",
+    "uptime": "99.43%",
+    "uptimeDay": "39.79%",
+    "uptimeWeek": "43.28%",
+    "uptimeMonth": "84.86%",
+    "uptimeYear": "98.74%",
     "time": 349,
-    "timeDay": 273,
+    "timeDay": 274,
     "timeWeek": 269,
     "timeMonth": 282,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2025-06-26": 776,
+      "2025-06-27": 82,
+      "2025-06-26": 785,
       "2025-06-25": 960,
       "2025-06-24": 989,
       "2025-06-23": 637,
@@ -871,7 +873,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-net",
     "status": "down",
-    "uptime": "62.75%",
+    "uptime": "62.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -882,7 +884,8 @@
     "timeMonth": 0,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-06-26": 1430,
+      "2025-06-27": 82,
+      "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -1094,8 +1097,7 @@
       "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
-      "2024-06-28": 1440,
-      "2024-06-27": 1440
+      "2024-06-28": 1440
     }
   }
 ]
