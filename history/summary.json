@@ -98,7 +98,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.wouterplanet.com.ico",
     "slug": "wouter-planet-cloud",
     "status": "down",
-    "uptime": "43.66%",
+    "uptime": "43.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -109,7 +109,7 @@
     "timeMonth": 0,
     "timeYear": 971,
     "dailyMinutesDown": {
-      "2025-07-06": 332,
+      "2025-07-06": 359,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -590,7 +590,7 @@
     "timeMonth": 143,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2025-07-06": 332,
+      "2025-07-06": 359,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -791,19 +791,19 @@
     "url": "$URL_ADMINISTRATION",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "administration",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "52.12%",
-    "uptimeWeek": "46.84%",
-    "uptimeMonth": "86.15%",
-    "uptimeYear": "98.85%",
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "52.01%",
+    "uptimeWeek": "46.82%",
+    "uptimeMonth": "86.28%",
+    "uptimeYear": "98.86%",
     "time": 327,
-    "timeDay": 264,
+    "timeDay": 265,
     "timeWeek": 268,
     "timeMonth": 273,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2025-07-06": 136,
+      "2025-07-06": 138,
       "2025-07-05": 720,
       "2025-07-04": 703,
       "2025-07-03": 956,
@@ -811,7 +811,7 @@
       "2025-07-01": 842,
       "2025-06-30": 765,
       "2025-06-29": 640,
-      "2025-06-28": 530
+      "2025-06-28": 474
     }
   },
   {
@@ -896,7 +896,7 @@
     "timeMonth": 0,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-07-06": 332,
+      "2025-07-06": 359,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
