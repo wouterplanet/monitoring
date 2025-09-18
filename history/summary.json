@@ -33,9 +33,9 @@
     "slug": "merch-site",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "98.48%",
     "time": 403,
     "timeDay": 266,
@@ -43,7 +43,6 @@
     "timeMonth": 404,
     "timeYear": 394,
     "dailyMinutesDown": {
-      "2025-09-17": 6,
       "2025-09-06": 23,
       "2025-09-05": 34,
       "2025-08-30": 27,
@@ -71,9 +70,9 @@
     "slug": "blog",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "98.47%",
     "time": 1421,
     "timeDay": 465,
@@ -81,7 +80,6 @@
     "timeMonth": 1439,
     "timeYear": 1408,
     "dailyMinutesDown": {
-      "2025-09-17": 6,
       "2025-09-06": 23,
       "2025-09-05": 34,
       "2025-08-30": 27,
@@ -121,7 +119,8 @@
     "timeMonth": 19654,
     "timeYear": 4957,
     "dailyMinutesDown": {
-      "2025-09-17": 1403,
+      "2025-09-18": 72,
+      "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
@@ -484,8 +483,7 @@
       "2024-09-22": 1440,
       "2024-09-21": 1440,
       "2024-09-20": 1440,
-      "2024-09-19": 1440,
-      "2024-09-18": 1440
+      "2024-09-19": 1440
     }
   },
   {
@@ -559,9 +557,9 @@
     "slug": "cdn",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "98.49%",
     "time": 245,
     "timeDay": 245,
@@ -569,7 +567,6 @@
     "timeMonth": 323,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2025-09-17": 6,
       "2025-09-06": 23,
       "2025-08-30": 27,
       "2025-08-21": 30,
@@ -599,14 +596,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.51%",
+    "uptimeYear": "34.49%",
     "time": 132,
     "timeDay": 119,
     "timeWeek": 120,
     "timeMonth": 153,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2025-09-17": 1403,
+      "2025-09-18": 72,
+      "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
@@ -880,18 +878,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "administration",
     "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "98.96%",
+    "uptime": "99.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "98.94%",
     "time": 302,
     "timeDay": 180,
     "timeWeek": 180,
     "timeMonth": 348,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2025-09-17": 6,
       "2025-09-06": 23,
       "2025-08-30": 27,
       "2025-08-21": 30,
@@ -905,7 +902,7 @@
       "2025-07-03": 956,
       "2025-07-02": 772,
       "2025-07-01": 842,
-      "2025-06-30": 182
+      "2025-06-30": 315
     }
   },
   {
@@ -915,9 +912,9 @@
     "slug": "fun-delivery-service",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "98.47%",
     "time": 321,
     "timeDay": 749,
@@ -925,7 +922,6 @@
     "timeMonth": 1103,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2025-09-17": 6,
       "2025-09-06": 23,
       "2025-08-30": 27,
       "2025-08-21": 30,
@@ -983,7 +979,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "home-net",
     "status": "down",
-    "uptime": "56.90%",
+    "uptime": "56.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -994,7 +990,8 @@
     "timeMonth": 0,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-09-17": 1403,
+      "2025-09-18": 72,
+      "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
@@ -1206,8 +1203,7 @@
       "2025-02-20": 878,
       "2024-10-22": 21,
       "2024-10-16": 34,
-      "2024-09-19": 404,
-      "2024-09-18": 1440
+      "2024-09-19": 404
     }
   }
 ]
