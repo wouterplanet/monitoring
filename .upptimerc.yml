@@ -9,12 +9,8 @@ sites:
     url: https://merch.wouterplanet.com
   - name: Blog
     url: https://blog.wouterplanet.com
-  - name: Wouter Planet Cloud
-    url: https://cloud.wouterplanet.com
   - name: API
     url: https://api.wouterplanet.com/ping
-  - name: Ombi
-    url: https://ombi.wouterplanet.com
   - name: CDN
     url: https://cdn.wouterplanet.com
   - name: CDN Alpha
