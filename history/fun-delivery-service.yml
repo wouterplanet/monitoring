@@ -1,7 +1,7 @@
 url: $URL_FUN
-status: up
-code: 200
-responseTime: 606
-lastUpdated: 2025-10-16T23:14:14.812Z
+status: down
+code: 502
+responseTime: 763
+lastUpdated: 2025-10-17T05:56:20.198Z
 startTime: 2023-04-11T16:44:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
