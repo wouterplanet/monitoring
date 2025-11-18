@@ -1,7 +1,7 @@
 url: https://api.wouterplanet.com/ping
-status: up
-code: 200
-responseTime: 775
-lastUpdated: 2025-11-17T23:16:02.261Z
+status: down
+code: 500
+responseTime: 129
+lastUpdated: 2025-11-18T11:38:44.678Z
 startTime: 2023-04-11T12:59:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
