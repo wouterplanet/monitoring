@@ -1,7 +1,7 @@
 url: $URL_ADMINISTRATION
-status: up
-code: 200
-responseTime: 207
-lastUpdated: 2026-01-03T23:17:16.938Z
+status: down
+code: 415
+responseTime: 126
+lastUpdated: 2026-01-03T23:20:03.828Z
 startTime: 2023-04-11T16:44:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
