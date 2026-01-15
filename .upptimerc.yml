@@ -13,9 +13,8 @@ sites:
     url: https://api.wouterplanet.com/ping
   - name: CDN
     url: https://cdn.wouterplanet.com
-  - name: CDN Alpha
-    url: $URL_ALPHA
-    icon: https://i.imgur.com/DCvRMIp.png
+  - name: CDN 4
+    url: https://cdn4.wouterplanet.com
   - name: CDN Orange
     url: $URL_CNDORANGE
   - name: Administration
@@ -24,10 +23,6 @@ sites:
     url: $URL_FUN
   - name: NAS
     url: https://nas.wouterplanet.com
-  - name: Home-Net
-    check: "tcp-ping"
-    url: $URL_HOMENET #Secret
-    port: $PORT_HOMENET
     
 workflowSchedule:
   graphs: "0 0 * * *"
