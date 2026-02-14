@@ -26,16 +26,16 @@
     "url": "https://merch.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/merch.wouterplanet.com.ico",
     "slug": "merch-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "95.66%",
+    "uptimeDay": "95.64%",
     "uptimeWeek": "95.50%",
     "uptimeMonth": "96.38%",
-    "uptimeYear": "99.25%",
+    "uptimeYear": "99.26%",
     "time": 337,
-    "timeDay": 222,
-    "timeWeek": 246,
-    "timeMonth": 300,
+    "timeDay": 211,
+    "timeWeek": 243,
+    "timeMonth": 299,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2026-02-14": 63,
@@ -105,8 +105,7 @@
       "2025-10-12": 21,
       "2025-09-28": 16,
       "2025-09-23": 16,
-      "2025-09-06": 23,
-      "2025-09-05": 34
+      "2025-09-06": 23
     }
   },
   {
@@ -114,17 +113,17 @@
     "url": "https://blog.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.wouterplanet.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "95.65%",
+    "uptimeDay": "95.63%",
     "uptimeWeek": "95.50%",
     "uptimeMonth": "96.38%",
-    "uptimeYear": "99.25%",
-    "time": 1256,
-    "timeDay": 999,
-    "timeWeek": 1118,
-    "timeMonth": 1112,
-    "timeYear": 1172,
+    "uptimeYear": "99.26%",
+    "time": 1254,
+    "timeDay": 855,
+    "timeWeek": 1077,
+    "timeMonth": 1102,
+    "timeYear": 1171,
     "dailyMinutesDown": {
       "2026-02-14": 63,
       "2026-02-13": 98,
@@ -193,8 +192,7 @@
       "2025-10-12": 21,
       "2025-09-28": 16,
       "2025-09-23": 16,
-      "2025-09-06": 23,
-      "2025-09-05": 34
+      "2025-09-06": 23
     }
   },
   {
@@ -222,14 +220,14 @@
     "url": "https://cdn.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.wouterplanet.com.ico",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "95.65%",
-    "uptimeWeek": "95.50%",
-    "uptimeMonth": "96.38%",
+    "uptimeDay": "95.63%",
+    "uptimeWeek": "95.49%",
+    "uptimeMonth": "96.37%",
     "uptimeYear": "99.26%",
     "time": 240,
-    "timeDay": 170,
+    "timeDay": 179,
     "timeWeek": 218,
     "timeMonth": 217,
     "timeYear": 242,
@@ -301,8 +299,7 @@
       "2025-10-12": 21,
       "2025-09-28": 16,
       "2025-09-23": 16,
-      "2025-09-06": 23,
-      "2025-08-30": 27
+      "2025-09-06": 23
     }
   },
   {
@@ -348,16 +345,16 @@
     "url": "$URL_ADMINISTRATION",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "administration",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "95.65%",
-    "uptimeWeek": "95.50%",
-    "uptimeMonth": "96.38%",
-    "uptimeYear": "99.25%",
+    "uptimeDay": "95.62%",
+    "uptimeWeek": "95.49%",
+    "uptimeMonth": "96.37%",
+    "uptimeYear": "99.26%",
     "time": 266,
-    "timeDay": 181,
-    "timeWeek": 199,
-    "timeMonth": 192,
+    "timeDay": 171,
+    "timeWeek": 196,
+    "timeMonth": 191,
     "timeYear": 257,
     "dailyMinutesDown": {
       "2026-02-14": 63,
@@ -427,8 +424,7 @@
       "2025-10-12": 21,
       "2025-09-28": 16,
       "2025-09-23": 16,
-      "2025-09-06": 23,
-      "2025-08-30": 27
+      "2025-09-06": 23
     }
   },
   {
@@ -436,17 +432,17 @@
     "url": "$URL_FUN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fun-delivery-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "95.64%",
+    "uptimeDay": "95.61%",
     "uptimeWeek": "95.49%",
     "uptimeMonth": "96.37%",
     "uptimeYear": "99.25%",
     "time": 613,
-    "timeDay": 1025,
-    "timeWeek": 1071,
-    "timeMonth": 903,
-    "timeYear": 688,
+    "timeDay": 878,
+    "timeWeek": 1032,
+    "timeMonth": 895,
+    "timeYear": 687,
     "dailyMinutesDown": {
       "2026-02-14": 63,
       "2026-02-13": 98,
@@ -515,8 +511,7 @@
       "2025-10-17": 35,
       "2025-10-12": 21,
       "2025-09-28": 16,
-      "2025-09-23": 16,
-      "2025-09-06": 23
+      "2025-09-23": 16
     }
   },
   {
