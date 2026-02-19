@@ -26,18 +26,19 @@
     "url": "https://merch.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/merch.wouterplanet.com.ico",
     "slug": "merch-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "84.11%",
+    "uptimeDay": "85.72%",
     "uptimeWeek": "91.84%",
     "uptimeMonth": "95.15%",
     "uptimeYear": "99.18%",
     "time": 334,
-    "timeDay": 226,
-    "timeWeek": 219,
+    "timeDay": 216,
+    "timeWeek": 218,
     "timeMonth": 267,
-    "timeYear": 323,
+    "timeYear": 322,
     "dailyMinutesDown": {
+      "2026-02-19": 0,
       "2026-02-18": 347,
       "2026-02-17": 31,
       "2026-02-16": 105,
@@ -100,8 +101,7 @@
       "2025-11-20": 38,
       "2025-11-18": 68,
       "2025-11-13": 25,
-      "2025-11-12": 28,
-      "2025-11-10": 26
+      "2025-11-12": 28
     }
   },
   {
@@ -109,18 +109,19 @@
     "url": "https://blog.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.wouterplanet.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "84.11%",
+    "uptimeDay": "85.71%",
     "uptimeWeek": "91.84%",
     "uptimeMonth": "95.15%",
     "uptimeYear": "99.18%",
-    "time": 1237,
-    "timeDay": 987,
-    "timeWeek": 954,
-    "timeMonth": 1076,
-    "timeYear": 1164,
+    "time": 1236,
+    "timeDay": 807,
+    "timeWeek": 934,
+    "timeMonth": 1068,
+    "timeYear": 1163,
     "dailyMinutesDown": {
+      "2026-02-19": 0,
       "2026-02-18": 347,
       "2026-02-17": 31,
       "2026-02-16": 105,
@@ -183,8 +184,7 @@
       "2025-11-20": 38,
       "2025-11-18": 79,
       "2025-11-13": 26,
-      "2025-11-12": 28,
-      "2025-11-10": 26
+      "2025-11-12": 28
     }
   },
   {
@@ -212,18 +212,19 @@
     "url": "https://cdn.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.wouterplanet.com.ico",
     "slug": "cdn",
-    "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "84.11%",
-    "uptimeWeek": "91.84%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "85.71%",
+    "uptimeWeek": "91.83%",
     "uptimeMonth": "95.15%",
     "uptimeYear": "99.18%",
     "time": 239,
-    "timeDay": 187,
+    "timeDay": 188,
     "timeWeek": 205,
     "timeMonth": 215,
     "timeYear": 240,
     "dailyMinutesDown": {
+      "2026-02-19": 0,
       "2026-02-18": 347,
       "2026-02-17": 30,
       "2026-02-16": 105,
@@ -286,8 +287,7 @@
       "2025-11-20": 38,
       "2025-11-18": 58,
       "2025-11-13": 26,
-      "2025-11-12": 28,
-      "2025-11-10": 26
+      "2025-11-12": 28
     }
   },
   {
@@ -333,18 +333,19 @@
     "url": "$URL_ADMINISTRATION",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "administration",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "84.12%",
-    "uptimeWeek": "91.84%",
+    "uptimeDay": "85.70%",
+    "uptimeWeek": "91.83%",
     "uptimeMonth": "95.15%",
     "uptimeYear": "99.18%",
     "time": 264,
-    "timeDay": 177,
-    "timeWeek": 176,
+    "timeDay": 161,
+    "timeWeek": 177,
     "timeMonth": 190,
     "timeYear": 255,
     "dailyMinutesDown": {
+      "2026-02-19": 0,
       "2026-02-18": 347,
       "2026-02-17": 30,
       "2026-02-16": 105,
@@ -407,8 +408,7 @@
       "2025-11-20": 38,
       "2025-11-18": 68,
       "2025-11-13": 26,
-      "2025-11-12": 28,
-      "2025-11-10": 26
+      "2025-11-12": 28
     }
   },
   {
@@ -416,18 +416,19 @@
     "url": "$URL_FUN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fun-delivery-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "84.12%",
+    "uptimeDay": "85.69%",
     "uptimeWeek": "91.83%",
-    "uptimeMonth": "95.15%",
+    "uptimeMonth": "95.14%",
     "uptimeYear": "99.18%",
     "time": 626,
-    "timeDay": 562,
-    "timeWeek": 772,
-    "timeMonth": 845,
-    "timeYear": 691,
+    "timeDay": 376,
+    "timeWeek": 755,
+    "timeMonth": 838,
+    "timeYear": 690,
     "dailyMinutesDown": {
+      "2026-02-19": 1,
       "2026-02-18": 347,
       "2026-02-17": 30,
       "2026-02-16": 105,
@@ -490,8 +491,7 @@
       "2025-11-20": 38,
       "2025-11-18": 79,
       "2025-11-13": 26,
-      "2025-11-12": 28,
-      "2025-11-10": 26
+      "2025-11-12": 28
     }
   },
   {
