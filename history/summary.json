@@ -26,15 +26,15 @@
     "url": "https://merch.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/merch.wouterplanet.com.ico",
     "slug": "merch-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "92.22%",
+    "uptimeDay": "92.20%",
     "uptimeWeek": "97.42%",
     "uptimeMonth": "95.14%",
-    "uptimeYear": "99.07%",
-    "time": 333,
-    "timeDay": 233,
-    "timeWeek": 227,
+    "uptimeYear": "99.08%",
+    "time": 334,
+    "timeDay": 237,
+    "timeWeek": 229,
     "timeMonth": 275,
     "timeYear": 322,
     "dailyMinutesDown": {
@@ -102,7 +102,7 @@
       "2025-12-03": 67,
       "2025-12-02": 19,
       "2025-12-01": 18,
-      "2025-11-30": 52
+      "2025-11-30": 26
     }
   },
   {
@@ -110,17 +110,17 @@
     "url": "https://blog.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.wouterplanet.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "92.21%",
-    "uptimeWeek": "96.24%",
+    "uptimeDay": "92.19%",
+    "uptimeWeek": "96.23%",
     "uptimeMonth": "94.87%",
     "uptimeYear": "99.06%",
-    "time": 1234,
-    "timeDay": 951,
-    "timeWeek": 1065,
-    "timeMonth": 1034,
-    "timeYear": 1150,
+    "time": 1233,
+    "timeDay": 867,
+    "timeWeek": 1022,
+    "timeMonth": 1025,
+    "timeYear": 1148,
     "dailyMinutesDown": {
       "2026-03-08": 61,
       "2026-03-07": 52,
@@ -186,8 +186,7 @@
       "2025-12-04": 22,
       "2025-12-03": 67,
       "2025-12-02": 19,
-      "2025-12-01": 18,
-      "2025-11-30": 26
+      "2025-12-01": 18
     }
   },
   {
@@ -215,16 +214,16 @@
     "url": "https://cdn.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.wouterplanet.com.ico",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "92.20%",
+    "uptimeDay": "92.18%",
     "uptimeWeek": "96.25%",
-    "uptimeMonth": "94.73%",
+    "uptimeMonth": "94.72%",
     "uptimeYear": "99.05%",
     "time": 244,
-    "timeDay": 207,
-    "timeWeek": 210,
-    "timeMonth": 280,
+    "timeDay": 204,
+    "timeWeek": 208,
+    "timeMonth": 279,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2026-03-08": 61,
@@ -290,8 +289,7 @@
       "2025-12-05": 45,
       "2025-12-04": 22,
       "2025-12-03": 67,
-      "2025-12-02": 19,
-      "2025-12-01": 18
+      "2025-12-02": 19
     }
   },
   {
@@ -337,16 +335,16 @@
     "url": "$URL_ADMINISTRATION",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "administration",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "92.20%",
+    "uptimeDay": "92.17%",
     "uptimeWeek": "97.41%",
     "uptimeMonth": "95.14%",
-    "uptimeYear": "99.07%",
+    "uptimeYear": "99.08%",
     "time": 268,
-    "timeDay": 217,
-    "timeWeek": 190,
-    "timeMonth": 324,
+    "timeDay": 215,
+    "timeWeek": 191,
+    "timeMonth": 322,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2026-03-08": 61,
@@ -413,7 +411,7 @@
       "2025-12-03": 67,
       "2025-12-02": 19,
       "2025-12-01": 18,
-      "2025-11-30": 53
+      "2025-11-30": 27
     }
   },
   {
@@ -421,19 +419,19 @@
     "url": "$URL_FUN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fun-delivery-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "92.19%",
+    "uptimeDay": "92.15%",
     "uptimeWeek": "96.26%",
     "uptimeMonth": "94.87%",
     "uptimeYear": "99.06%",
     "time": 628,
-    "timeDay": 671,
-    "timeWeek": 924,
-    "timeMonth": 953,
-    "timeYear": 727,
+    "timeDay": 626,
+    "timeWeek": 891,
+    "timeMonth": 946,
+    "timeYear": 726,
     "dailyMinutesDown": {
-      "2026-03-08": 61,
+      "2026-03-08": 62,
       "2026-03-07": 52,
       "2026-03-06": 35,
       "2026-03-05": 114,
@@ -497,8 +495,7 @@
       "2025-12-04": 22,
       "2025-12-03": 67,
       "2025-12-02": 19,
-      "2025-12-01": 18,
-      "2025-11-30": 27
+      "2025-12-01": 18
     }
   },
   {
