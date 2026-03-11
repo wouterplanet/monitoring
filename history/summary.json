@@ -109,18 +109,19 @@
     "url": "https://blog.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.wouterplanet.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "96.04%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "96.00%",
     "uptimeMonth": "95.03%",
-    "uptimeYear": "99.05%",
-    "time": 1230,
+    "uptimeYear": "99.06%",
+    "time": 1231,
     "timeDay": 894,
     "timeWeek": 941,
     "timeMonth": 1005,
     "timeYear": 1145,
     "dailyMinutesDown": {
+      "2026-03-11": 3,
       "2026-03-10": 30,
       "2026-03-09": 43,
       "2026-03-08": 128,
@@ -183,8 +184,7 @@
       "2025-12-08": 22,
       "2025-12-07": 163,
       "2025-12-06": 18,
-      "2025-12-05": 45,
-      "2025-12-04": 22
+      "2025-12-05": 45
     }
   },
   {
@@ -212,10 +212,10 @@
     "url": "https://cdn.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.wouterplanet.com.ico",
     "slug": "cdn",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "96.03%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "97.82%",
+    "uptimeWeek": "96.02%",
     "uptimeMonth": "94.89%",
     "uptimeYear": "99.05%",
     "time": 244,
@@ -224,6 +224,7 @@
     "timeMonth": 276,
     "timeYear": 247,
     "dailyMinutesDown": {
+      "2026-03-11": 2,
       "2026-03-10": 30,
       "2026-03-09": 43,
       "2026-03-08": 128,
@@ -285,8 +286,7 @@
       "2025-12-09": 37,
       "2025-12-08": 22,
       "2025-12-07": 163,
-      "2025-12-06": 18,
-      "2025-12-05": 45
+      "2025-12-06": 18
     }
   },
   {
@@ -415,18 +415,19 @@
     "url": "$URL_FUN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fun-delivery-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "96.03%",
-    "uptimeMonth": "95.04%",
-    "uptimeYear": "99.05%",
-    "time": 635,
+    "uptimeDay": "97.91%",
+    "uptimeWeek": "96.02%",
+    "uptimeMonth": "95.03%",
+    "uptimeYear": "99.06%",
+    "time": 636,
     "timeDay": 895,
     "timeWeek": 722,
     "timeMonth": 913,
     "timeYear": 728,
     "dailyMinutesDown": {
+      "2026-03-11": 1,
       "2026-03-10": 30,
       "2026-03-09": 43,
       "2026-03-08": 128,
@@ -489,8 +490,7 @@
       "2025-12-08": 22,
       "2025-12-07": 163,
       "2025-12-06": 18,
-      "2025-12-05": 45,
-      "2025-12-04": 22
+      "2025-12-05": 45
     }
   },
   {
