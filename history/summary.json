@@ -8,12 +8,12 @@
     "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 205,
     "timeDay": 186,
     "timeWeek": 167,
-    "timeMonth": 710,
+    "timeMonth": 184,
     "timeYear": 231,
     "dailyMinutesDown": {
       "2026-02-12": 69,
@@ -26,15 +26,15 @@
     "url": "https://merch.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/merch.wouterplanet.com.ico",
     "slug": "merch-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "93.53%",
+    "uptimeDay": "93.51%",
     "uptimeWeek": "96.24%",
-    "uptimeMonth": "95.16%",
+    "uptimeMonth": "95.28%",
     "uptimeYear": "99.06%",
     "time": 335,
-    "timeDay": 231,
-    "timeWeek": 336,
+    "timeDay": 230,
+    "timeWeek": 332,
     "timeMonth": 297,
     "timeYear": 324,
     "dailyMinutesDown": {
@@ -100,8 +100,7 @@
       "2025-12-08": 22,
       "2025-12-07": 163,
       "2025-12-06": 18,
-      "2025-12-05": 45,
-      "2025-12-04": 21
+      "2025-12-05": 45
     }
   },
   {
@@ -109,17 +108,17 @@
     "url": "https://blog.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.wouterplanet.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "93.53%",
+    "uptimeDay": "93.50%",
     "uptimeWeek": "94.93%",
-    "uptimeMonth": "94.58%",
-    "uptimeYear": "99.02%",
-    "time": 1230,
-    "timeDay": 851,
-    "timeWeek": 932,
-    "timeMonth": 1000,
-    "timeYear": 1143,
+    "uptimeMonth": "94.71%",
+    "uptimeYear": "99.03%",
+    "time": 1229,
+    "timeDay": 704,
+    "timeWeek": 906,
+    "timeMonth": 994,
+    "timeYear": 1142,
     "dailyMinutesDown": {
       "2026-03-12": 93,
       "2026-03-11": 132,
@@ -184,7 +183,7 @@
       "2025-12-09": 37,
       "2025-12-08": 22,
       "2025-12-07": 163,
-      "2025-12-06": 18
+      "2025-12-06": 1
     }
   },
   {
@@ -212,16 +211,16 @@
     "url": "https://cdn.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.wouterplanet.com.ico",
     "slug": "cdn",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "93.53%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "93.50%",
     "uptimeWeek": "94.94%",
-    "uptimeMonth": "94.45%",
-    "uptimeYear": "99.02%",
+    "uptimeMonth": "94.57%",
+    "uptimeYear": "99.04%",
     "time": 245,
-    "timeDay": 212,
-    "timeWeek": 213,
-    "timeMonth": 274,
+    "timeDay": 202,
+    "timeWeek": 211,
+    "timeMonth": 273,
     "timeYear": 247,
     "dailyMinutesDown": {
       "2026-03-12": 93,
@@ -286,8 +285,7 @@
       "2025-12-10": 30,
       "2025-12-09": 37,
       "2025-12-08": 22,
-      "2025-12-07": 163,
-      "2025-12-06": 1
+      "2025-12-07": 18
     }
   },
   {
@@ -333,16 +331,16 @@
     "url": "$URL_ADMINISTRATION",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "administration",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "93.53%",
+    "uptimeDay": "93.49%",
     "uptimeWeek": "96.23%",
-    "uptimeMonth": "95.15%",
+    "uptimeMonth": "95.28%",
     "uptimeYear": "99.06%",
     "time": 270,
-    "timeDay": 180,
-    "timeWeek": 191,
-    "timeMonth": 309,
+    "timeDay": 176,
+    "timeWeek": 190,
+    "timeMonth": 310,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2026-03-12": 93,
@@ -407,8 +405,7 @@
       "2025-12-08": 22,
       "2025-12-07": 163,
       "2025-12-06": 18,
-      "2025-12-05": 45,
-      "2025-12-04": 22
+      "2025-12-05": 45
     }
   },
   {
@@ -416,19 +413,19 @@
     "url": "$URL_FUN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fun-delivery-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "93.53%",
+    "uptimeDay": "93.49%",
     "uptimeWeek": "94.95%",
-    "uptimeMonth": "94.59%",
-    "uptimeYear": "99.02%",
+    "uptimeMonth": "94.71%",
+    "uptimeYear": "99.03%",
     "time": 638,
-    "timeDay": 563,
-    "timeWeek": 658,
-    "timeMonth": 880,
-    "timeYear": 728,
+    "timeDay": 494,
+    "timeWeek": 644,
+    "timeMonth": 873,
+    "timeYear": 727,
     "dailyMinutesDown": {
-      "2026-03-12": 93,
+      "2026-03-12": 94,
       "2026-03-11": 129,
       "2026-03-10": 30,
       "2026-03-09": 43,
@@ -491,7 +488,7 @@
       "2025-12-09": 37,
       "2025-12-08": 22,
       "2025-12-07": 163,
-      "2025-12-06": 18
+      "2025-12-06": 1
     }
   },
   {
