@@ -1,7 +1,7 @@
 url: https://merch.wouterplanet.com
-status: up
-code: 200
-responseTime: 1891
-lastUpdated: 2026-04-09T23:35:33.038Z
+status: down
+code: 415
+responseTime: 271
+lastUpdated: 2026-04-10T12:07:40.273Z
 startTime: 2023-04-11T13:35:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
