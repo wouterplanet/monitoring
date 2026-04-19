@@ -26,16 +26,16 @@
     "url": "https://merch.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/merch.wouterplanet.com.ico",
     "slug": "merch-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "91.05%",
-    "uptimeWeek": "96.62%",
+    "uptimeDay": "91.03%",
+    "uptimeWeek": "96.78%",
     "uptimeMonth": "95.86%",
     "uptimeYear": "98.95%",
     "time": 338,
-    "timeDay": 223,
-    "timeWeek": 660,
-    "timeMonth": 398,
+    "timeDay": 226,
+    "timeWeek": 665,
+    "timeMonth": 396,
     "timeYear": 319,
     "dailyMinutesDown": {
       "2026-04-19": 129,
@@ -92,8 +92,7 @@
       "2026-01-22": 152,
       "2026-01-21": 74,
       "2026-01-20": 69,
-      "2026-01-17": 20,
-      "2026-01-16": 23
+      "2026-01-17": 20
     }
   },
   {
@@ -101,17 +100,17 @@
     "url": "https://blog.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.wouterplanet.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "91.04%",
-    "uptimeWeek": "96.62%",
+    "uptimeDay": "91.02%",
+    "uptimeWeek": "96.78%",
     "uptimeMonth": "95.45%",
     "uptimeYear": "98.89%",
-    "time": 1198,
-    "timeDay": 1251,
-    "timeWeek": 1149,
-    "timeMonth": 956,
-    "timeYear": 1115,
+    "time": 1196,
+    "timeDay": 1080,
+    "timeWeek": 1075,
+    "timeMonth": 948,
+    "timeYear": 1113,
     "dailyMinutesDown": {
       "2026-04-19": 129,
       "2026-04-15": 144,
@@ -168,7 +167,7 @@
       "2026-01-25": 185,
       "2026-01-24": 62,
       "2026-01-22": 152,
-      "2026-01-21": 74
+      "2026-01-21": 42
     }
   },
   {
@@ -196,16 +195,16 @@
     "url": "https://cdn.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.wouterplanet.com.ico",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "91.04%",
-    "uptimeWeek": "96.62%",
+    "uptimeDay": "91.02%",
+    "uptimeWeek": "96.78%",
     "uptimeMonth": "95.45%",
-    "uptimeYear": "98.88%",
+    "uptimeYear": "98.89%",
     "time": 243,
-    "timeDay": 244,
-    "timeWeek": 227,
-    "timeMonth": 230,
+    "timeDay": 228,
+    "timeWeek": 224,
+    "timeMonth": 229,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2026-04-19": 129,
@@ -262,8 +261,7 @@
       "2026-01-26": 120,
       "2026-01-25": 186,
       "2026-01-24": 62,
-      "2026-01-22": 152,
-      "2026-01-21": 42
+      "2026-01-22": 152
     }
   },
   {
@@ -311,14 +309,14 @@
     "url": "$URL_ADMINISTRATION",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "administration",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "91.04%",
-    "uptimeWeek": "96.62%",
+    "uptimeDay": "91.01%",
+    "uptimeWeek": "96.78%",
     "uptimeMonth": "95.85%",
     "uptimeYear": "98.95%",
     "time": 260,
-    "timeDay": 241,
+    "timeDay": 223,
     "timeWeek": 194,
     "timeMonth": 206,
     "timeYear": 252,
@@ -377,8 +375,7 @@
       "2026-01-22": 152,
       "2026-01-21": 74,
       "2026-01-20": 69,
-      "2026-01-17": 20,
-      "2026-01-16": 23
+      "2026-01-17": 20
     }
   },
   {
@@ -386,17 +383,17 @@
     "url": "$URL_FUN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fun-delivery-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "91.04%",
-    "uptimeWeek": "96.62%",
+    "uptimeDay": "91.01%",
+    "uptimeWeek": "96.78%",
     "uptimeMonth": "95.85%",
-    "uptimeYear": "98.91%",
+    "uptimeYear": "98.92%",
     "time": 665,
-    "timeDay": 729,
-    "timeWeek": 602,
-    "timeMonth": 800,
-    "timeYear": 765,
+    "timeDay": 644,
+    "timeWeek": 532,
+    "timeMonth": 794,
+    "timeYear": 764,
     "dailyMinutesDown": {
       "2026-04-19": 129,
       "2026-04-15": 144,
@@ -452,8 +449,7 @@
       "2026-01-25": 186,
       "2026-01-24": 61,
       "2026-01-22": 152,
-      "2026-01-21": 74,
-      "2026-01-20": 69
+      "2026-01-21": 74
     }
   },
   {
