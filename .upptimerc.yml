@@ -21,8 +21,8 @@ sites:
     url: $URL_ADMINISTRATION
   - name: Fun Delivery Service
     url: $URL_FUN
-  - name: NAS
-    url: https://nas.wouterplanet.com
+  - name: Game Delivery Service
+    url: https://gamepage.wouterplanet.com/ping
     
 workflowSchedule:
   graphs: "0 0 * * *"
@@ -44,7 +44,7 @@ status-website:
   customHeadHtml: "<meta http-equiv='refresh' content='600' />"
   baseUrl: /monitoring
   introTitle: "Status page for **Wouter Planet** and related services."
-  introMessage: Uses Github actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: If you encounter issues, feel free to reach out through [**our support page**](https://support.wouterplanet.com).
   robotsText: "User-agent: * \n Disallow: /"
   navbar:
     - title: Status
