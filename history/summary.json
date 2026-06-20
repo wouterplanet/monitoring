@@ -26,15 +26,15 @@
     "url": "https://merch.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/merch.wouterplanet.com.ico",
     "slug": "merch-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "85.75%",
-    "uptimeMonth": "86.99%",
-    "uptimeYear": "98.21%",
+    "uptimeDay": "94.64%",
+    "uptimeWeek": "85.00%",
+    "uptimeMonth": "86.82%",
+    "uptimeYear": "98.20%",
     "time": 330,
-    "timeDay": 211,
-    "timeWeek": 213,
+    "timeDay": 249,
+    "timeWeek": 219,
     "timeMonth": 322,
     "timeYear": 318,
     "dailyMinutesDown": {
@@ -99,7 +99,7 @@
       "2026-06-15": 422,
       "2026-06-16": 176,
       "2026-06-17": 589,
-      "2026-06-20": 1
+      "2026-06-20": 77
     }
   },
   {
@@ -107,17 +107,17 @@
     "url": "https://blog.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.wouterplanet.com.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "85.76%",
-    "uptimeMonth": "87.01%",
-    "uptimeYear": "98.16%",
-    "time": 1123,
-    "timeDay": 495,
-    "timeWeek": 963,
-    "timeMonth": 1095,
-    "timeYear": 1103,
+    "uptimeDay": "94.65%",
+    "uptimeWeek": "85.01%",
+    "uptimeMonth": "86.83%",
+    "uptimeYear": "98.14%",
+    "time": 1122,
+    "timeDay": 474,
+    "timeWeek": 935,
+    "timeMonth": 1088,
+    "timeYear": 1102,
     "dailyMinutesDown": {
       "2026-03-01": 55,
       "2026-03-03": 119,
@@ -182,7 +182,7 @@
       "2026-06-15": 422,
       "2026-06-16": 176,
       "2026-06-17": 589,
-      "2026-06-20": 1
+      "2026-06-20": 77
     }
   },
   {
@@ -210,16 +210,16 @@
     "url": "https://cdn.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.wouterplanet.com.ico",
     "slug": "cdn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "85.78%",
-    "uptimeMonth": "87.02%",
-    "uptimeYear": "98.16%",
+    "uptimeDay": "94.66%",
+    "uptimeWeek": "85.02%",
+    "uptimeMonth": "86.85%",
+    "uptimeYear": "98.15%",
     "time": 242,
-    "timeDay": 202,
-    "timeWeek": 245,
-    "timeMonth": 223,
+    "timeDay": 212,
+    "timeWeek": 244,
+    "timeMonth": 224,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2026-03-01": 55,
@@ -285,7 +285,7 @@
       "2026-06-15": 422,
       "2026-06-16": 175,
       "2026-06-17": 589,
-      "2026-06-20": 1
+      "2026-06-20": 77
     }
   },
   {
@@ -335,15 +335,15 @@
     "url": "$URL_ADMINISTRATION",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "administration",
-    "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "85.79%",
-    "uptimeMonth": "87.03%",
-    "uptimeYear": "98.21%",
-    "time": 245,
-    "timeDay": 177,
-    "timeWeek": 177,
+    "status": "up",
+    "uptime": "99.43%",
+    "uptimeDay": "94.68%",
+    "uptimeWeek": "85.04%",
+    "uptimeMonth": "86.86%",
+    "uptimeYear": "98.19%",
+    "time": 244,
+    "timeDay": 191,
+    "timeWeek": 179,
     "timeMonth": 180,
     "timeYear": 237,
     "dailyMinutesDown": {
@@ -409,7 +409,7 @@
       "2026-06-15": 422,
       "2026-06-16": 175,
       "2026-06-17": 588,
-      "2026-06-20": 1
+      "2026-06-20": 77
     }
   },
   {
@@ -417,17 +417,17 @@
     "url": "$URL_FUN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fun-delivery-service",
-    "status": "down",
+    "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "85.80%",
-    "uptimeMonth": "87.05%",
-    "uptimeYear": "98.19%",
-    "time": 748,
-    "timeDay": 328,
-    "timeWeek": 551,
-    "timeMonth": 773,
-    "timeYear": 810,
+    "uptimeDay": "94.69%",
+    "uptimeWeek": "85.05%",
+    "uptimeMonth": "86.87%",
+    "uptimeYear": "98.17%",
+    "time": 749,
+    "timeDay": 769,
+    "timeWeek": 609,
+    "timeMonth": 783,
+    "timeYear": 811,
     "dailyMinutesDown": {
       "2026-03-01": 104,
       "2026-03-03": 116,
@@ -491,7 +491,7 @@
       "2026-06-15": 422,
       "2026-06-16": 175,
       "2026-06-17": 588,
-      "2026-06-20": 1
+      "2026-06-20": 76
     }
   },
   {
