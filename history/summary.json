@@ -27,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/merch.wouterplanet.com.ico",
     "slug": "merch-site",
     "status": "down",
-    "uptime": "99.28%",
-    "uptimeDay": "88.24%",
-    "uptimeWeek": "71.52%",
-    "uptimeMonth": "81.16%",
-    "uptimeYear": "97.68%",
+    "uptime": "99.27%",
+    "uptimeDay": "81.79%",
+    "uptimeWeek": "70.59%",
+    "uptimeMonth": "80.95%",
+    "uptimeYear": "97.66%",
     "time": 327,
     "timeDay": 203,
     "timeWeek": 216,
@@ -100,7 +100,7 @@
       "2026-06-28": 338,
       "2026-06-29": 381,
       "2026-06-30": 170,
-      "2026-07-01": 1
+      "2026-07-01": 94
     }
   },
   {
@@ -110,10 +110,10 @@
     "slug": "blog",
     "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "88.27%",
-    "uptimeWeek": "71.54%",
-    "uptimeMonth": "81.18%",
-    "uptimeYear": "97.65%",
+    "uptimeDay": "81.82%",
+    "uptimeWeek": "70.62%",
+    "uptimeMonth": "80.97%",
+    "uptimeYear": "97.64%",
     "time": 1105,
     "timeDay": 300,
     "timeWeek": 384,
@@ -183,7 +183,7 @@
       "2026-06-28": 338,
       "2026-06-29": 381,
       "2026-06-30": 170,
-      "2026-07-01": 1
+      "2026-07-01": 94
     }
   },
   {
@@ -213,10 +213,10 @@
     "slug": "cdn",
     "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "88.29%",
-    "uptimeWeek": "71.57%",
-    "uptimeMonth": "81.20%",
-    "uptimeYear": "97.65%",
+    "uptimeDay": "81.84%",
+    "uptimeWeek": "70.65%",
+    "uptimeMonth": "80.99%",
+    "uptimeYear": "97.64%",
     "time": 241,
     "timeDay": 190,
     "timeWeek": 201,
@@ -286,7 +286,7 @@
       "2026-06-28": 338,
       "2026-06-29": 381,
       "2026-06-30": 170,
-      "2026-07-01": 1
+      "2026-07-01": 94
     }
   },
   {
@@ -337,11 +337,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "administration",
     "status": "down",
-    "uptime": "99.28%",
-    "uptimeDay": "88.31%",
-    "uptimeWeek": "71.60%",
-    "uptimeMonth": "81.22%",
-    "uptimeYear": "97.67%",
+    "uptime": "99.27%",
+    "uptimeDay": "81.86%",
+    "uptimeWeek": "70.68%",
+    "uptimeMonth": "81.01%",
+    "uptimeYear": "97.66%",
     "time": 233,
     "timeDay": 189,
     "timeWeek": 198,
@@ -411,7 +411,7 @@
       "2026-06-28": 337,
       "2026-06-29": 381,
       "2026-06-30": 170,
-      "2026-07-01": 1
+      "2026-07-01": 94
     }
   },
   {
@@ -421,10 +421,10 @@
     "slug": "fun-delivery-service",
     "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "88.33%",
-    "uptimeWeek": "71.63%",
-    "uptimeMonth": "81.24%",
-    "uptimeYear": "97.68%",
+    "uptimeDay": "81.89%",
+    "uptimeWeek": "70.71%",
+    "uptimeMonth": "81.02%",
+    "uptimeYear": "97.66%",
     "time": 728,
     "timeDay": 508,
     "timeWeek": 753,
@@ -493,7 +493,7 @@
       "2026-06-28": 337,
       "2026-06-29": 379,
       "2026-06-30": 169,
-      "2026-07-01": 1
+      "2026-07-01": 93
     }
   },
   {
