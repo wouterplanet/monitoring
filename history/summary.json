@@ -26,17 +26,17 @@
     "url": "https://merch.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/merch.wouterplanet.com.ico",
     "slug": "merch-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "87.35%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "86.93%",
     "uptimeMonth": "82.89%",
-    "uptimeYear": "97.38%",
+    "uptimeYear": "97.37%",
     "time": 324,
-    "timeDay": 159,
-    "timeWeek": 281,
-    "timeMonth": 235,
-    "timeYear": 312,
+    "timeDay": 171,
+    "timeWeek": 277,
+    "timeMonth": 234,
+    "timeYear": 311,
     "dailyMinutesDown": {
       "2026-03-28": 104,
       "2026-03-29": 46,
@@ -102,7 +102,7 @@
       "2026-07-07": 137,
       "2026-07-09": 241,
       "2026-07-10": 447,
-      "2026-07-11": 1
+      "2026-07-11": 44
     }
   },
   {
@@ -110,16 +110,16 @@
     "url": "https://blog.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.wouterplanet.com.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "87.37%",
+    "uptimeDay": "96.93%",
+    "uptimeWeek": "86.94%",
     "uptimeMonth": "82.91%",
-    "uptimeYear": "97.36%",
-    "time": 1077,
-    "timeDay": 313,
-    "timeWeek": 404,
-    "timeMonth": 556,
+    "uptimeYear": "97.35%",
+    "time": 1076,
+    "timeDay": 354,
+    "timeWeek": 406,
+    "timeMonth": 554,
     "timeYear": 1044,
     "dailyMinutesDown": {
       "2026-03-28": 28,
@@ -187,7 +187,7 @@
       "2026-07-07": 137,
       "2026-07-09": 241,
       "2026-07-10": 447,
-      "2026-07-11": 1
+      "2026-07-11": 44
     }
   },
   {
@@ -215,15 +215,15 @@
     "url": "https://cdn.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.wouterplanet.com.ico",
     "slug": "cdn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "87.38%",
+    "uptimeDay": "96.94%",
+    "uptimeWeek": "86.95%",
     "uptimeMonth": "82.93%",
     "uptimeYear": "97.36%",
     "time": 240,
-    "timeDay": 194,
-    "timeWeek": 217,
+    "timeDay": 221,
+    "timeWeek": 220,
     "timeMonth": 220,
     "timeYear": 238,
     "dailyMinutesDown": {
@@ -292,7 +292,7 @@
       "2026-07-07": 137,
       "2026-07-09": 241,
       "2026-07-10": 447,
-      "2026-07-11": 1
+      "2026-07-11": 44
     }
   },
   {
@@ -342,15 +342,15 @@
     "url": "$URL_ADMINISTRATION",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "administration",
-    "status": "down",
-    "uptime": "99.20%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "87.40%",
+    "status": "up",
+    "uptime": "99.19%",
+    "uptimeDay": "96.96%",
+    "uptimeWeek": "86.97%",
     "uptimeMonth": "82.95%",
-    "uptimeYear": "97.38%",
+    "uptimeYear": "97.37%",
     "time": 224,
-    "timeDay": 182,
-    "timeWeek": 189,
+    "timeDay": 163,
+    "timeWeek": 186,
     "timeMonth": 190,
     "timeYear": 216,
     "dailyMinutesDown": {
@@ -419,7 +419,7 @@
       "2026-07-07": 137,
       "2026-07-09": 240,
       "2026-07-10": 447,
-      "2026-07-11": 1
+      "2026-07-11": 44
     }
   },
   {
@@ -427,17 +427,17 @@
     "url": "$URL_FUN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fun-delivery-service",
-    "status": "down",
-    "uptime": "99.20%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "87.41%",
+    "status": "up",
+    "uptime": "99.19%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "86.98%",
     "uptimeMonth": "82.96%",
-    "uptimeYear": "97.39%",
-    "time": 747,
-    "timeDay": 238,
-    "timeWeek": 902,
-    "timeMonth": 828,
-    "timeYear": 835,
+    "uptimeYear": "97.38%",
+    "time": 748,
+    "timeDay": 700,
+    "timeWeek": 937,
+    "timeMonth": 836,
+    "timeYear": 836,
     "dailyMinutesDown": {
       "2026-03-28": 104,
       "2026-03-29": 46,
@@ -503,7 +503,7 @@
       "2026-07-07": 137,
       "2026-07-09": 240,
       "2026-07-10": 447,
-      "2026-07-11": 1
+      "2026-07-11": 44
     }
   },
   {
