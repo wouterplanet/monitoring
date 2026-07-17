@@ -28,10 +28,10 @@
     "slug": "merch-site",
     "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "84.31%",
+    "uptimeDay": "79.59%",
     "uptimeWeek": "84.70%",
     "uptimeMonth": "83.49%",
-    "uptimeYear": "97.32%",
+    "uptimeYear": "97.31%",
     "time": 321,
     "timeDay": 222,
     "timeWeek": 220,
@@ -102,7 +102,7 @@
       "2026-07-14": 120,
       "2026-07-15": 151,
       "2026-07-16": 291,
-      "2026-07-17": 1
+      "2026-07-17": 69
     }
   },
   {
@@ -112,10 +112,10 @@
     "slug": "blog",
     "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "84.33%",
+    "uptimeDay": "79.62%",
     "uptimeWeek": "84.72%",
     "uptimeMonth": "83.51%",
-    "uptimeYear": "97.32%",
+    "uptimeYear": "97.31%",
     "time": 1053,
     "timeDay": 420,
     "timeWeek": 372,
@@ -186,7 +186,7 @@
       "2026-07-14": 120,
       "2026-07-15": 151,
       "2026-07-16": 291,
-      "2026-07-17": 1
+      "2026-07-17": 69
     }
   },
   {
@@ -216,10 +216,10 @@
     "slug": "cdn",
     "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "84.36%",
+    "uptimeDay": "79.64%",
     "uptimeWeek": "84.75%",
     "uptimeMonth": "83.52%",
-    "uptimeYear": "97.33%",
+    "uptimeYear": "97.31%",
     "time": 239,
     "timeDay": 224,
     "timeWeek": 217,
@@ -290,7 +290,7 @@
       "2026-07-14": 120,
       "2026-07-15": 150,
       "2026-07-16": 291,
-      "2026-07-17": 1
+      "2026-07-17": 69
     }
   },
   {
@@ -342,10 +342,10 @@
     "slug": "administration",
     "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "84.38%",
+    "uptimeDay": "79.67%",
     "uptimeWeek": "84.77%",
     "uptimeMonth": "83.54%",
-    "uptimeYear": "97.32%",
+    "uptimeYear": "97.30%",
     "time": 222,
     "timeDay": 240,
     "timeWeek": 192,
@@ -416,7 +416,7 @@
       "2026-07-14": 120,
       "2026-07-15": 150,
       "2026-07-16": 291,
-      "2026-07-17": 1
+      "2026-07-17": 69
     }
   },
   {
@@ -426,10 +426,10 @@
     "slug": "fun-delivery-service",
     "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "84.41%",
+    "uptimeDay": "79.69%",
     "uptimeWeek": "84.79%",
     "uptimeMonth": "83.56%",
-    "uptimeYear": "97.33%",
+    "uptimeYear": "97.32%",
     "time": 759,
     "timeDay": 973,
     "timeWeek": 697,
@@ -500,7 +500,7 @@
       "2026-07-14": 119,
       "2026-07-15": 150,
       "2026-07-16": 291,
-      "2026-07-17": 1
+      "2026-07-17": 68
     }
   },
   {
