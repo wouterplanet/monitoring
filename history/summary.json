@@ -26,16 +26,16 @@
     "url": "https://merch.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/merch.wouterplanet.com.ico",
     "slug": "merch-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "86.45%",
-    "uptimeWeek": "87.14%",
-    "uptimeMonth": "84.25%",
-    "uptimeYear": "97.29%",
+    "uptimeDay": "81.81%",
+    "uptimeWeek": "86.48%",
+    "uptimeMonth": "84.09%",
+    "uptimeYear": "97.28%",
     "time": 321,
-    "timeDay": 256,
-    "timeWeek": 221,
-    "timeMonth": 237,
+    "timeDay": 274,
+    "timeWeek": 225,
+    "timeMonth": 238,
     "timeYear": 309,
     "dailyMinutesDown": {
       "2026-04-11": 114,
@@ -101,7 +101,7 @@
       "2026-07-14": 120,
       "2026-07-15": 151,
       "2026-07-16": 291,
-      "2026-07-17": 195
+      "2026-07-17": 262
     }
   },
   {
@@ -109,16 +109,16 @@
     "url": "https://blog.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.wouterplanet.com.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "86.47%",
-    "uptimeWeek": "87.16%",
-    "uptimeMonth": "84.27%",
-    "uptimeYear": "97.29%",
+    "uptimeDay": "81.84%",
+    "uptimeWeek": "86.50%",
+    "uptimeMonth": "84.11%",
+    "uptimeYear": "97.28%",
     "time": 1051,
-    "timeDay": 414,
-    "timeWeek": 370,
-    "timeMonth": 421,
+    "timeDay": 487,
+    "timeWeek": 383,
+    "timeMonth": 424,
     "timeYear": 1022,
     "dailyMinutesDown": {
       "2026-04-11": 114,
@@ -184,7 +184,7 @@
       "2026-07-14": 120,
       "2026-07-15": 151,
       "2026-07-16": 291,
-      "2026-07-17": 195
+      "2026-07-17": 262
     }
   },
   {
@@ -212,14 +212,14 @@
     "url": "https://cdn.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.wouterplanet.com.ico",
     "slug": "cdn",
-    "status": "down",
+    "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "86.49%",
-    "uptimeWeek": "87.19%",
-    "uptimeMonth": "84.28%",
-    "uptimeYear": "97.30%",
+    "uptimeDay": "81.87%",
+    "uptimeWeek": "86.53%",
+    "uptimeMonth": "84.13%",
+    "uptimeYear": "97.28%",
     "time": 239,
-    "timeDay": 242,
+    "timeDay": 239,
     "timeWeek": 216,
     "timeMonth": 214,
     "timeYear": 237,
@@ -287,7 +287,7 @@
       "2026-07-14": 120,
       "2026-07-15": 150,
       "2026-07-16": 291,
-      "2026-07-17": 195
+      "2026-07-17": 261
     }
   },
   {
@@ -337,15 +337,15 @@
     "url": "$URL_ADMINISTRATION",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "administration",
-    "status": "down",
+    "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "86.51%",
-    "uptimeWeek": "87.21%",
-    "uptimeMonth": "84.30%",
-    "uptimeYear": "97.29%",
+    "uptimeDay": "81.90%",
+    "uptimeWeek": "86.55%",
+    "uptimeMonth": "84.15%",
+    "uptimeYear": "97.28%",
     "time": 222,
-    "timeDay": 231,
-    "timeWeek": 194,
+    "timeDay": 244,
+    "timeWeek": 197,
     "timeMonth": 194,
     "timeYear": 216,
     "dailyMinutesDown": {
@@ -413,7 +413,7 @@
       "2026-07-14": 120,
       "2026-07-15": 150,
       "2026-07-16": 291,
-      "2026-07-17": 194
+      "2026-07-17": 260
     }
   },
   {
@@ -421,16 +421,16 @@
     "url": "$URL_FUN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fun-delivery-service",
-    "status": "down",
+    "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "86.53%",
-    "uptimeWeek": "87.24%",
-    "uptimeMonth": "84.32%",
-    "uptimeYear": "97.30%",
+    "uptimeDay": "81.92%",
+    "uptimeWeek": "86.58%",
+    "uptimeMonth": "84.17%",
+    "uptimeYear": "97.29%",
     "time": 761,
-    "timeDay": 1003,
-    "timeWeek": 726,
-    "timeMonth": 841,
+    "timeDay": 924,
+    "timeWeek": 722,
+    "timeMonth": 839,
     "timeYear": 837,
     "dailyMinutesDown": {
       "2026-04-11": 114,
@@ -496,7 +496,7 @@
       "2026-07-14": 119,
       "2026-07-15": 150,
       "2026-07-16": 291,
-      "2026-07-17": 194
+      "2026-07-17": 260
     }
   },
   {
