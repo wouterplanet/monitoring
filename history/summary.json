@@ -26,15 +26,15 @@
     "url": "https://merch.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/merch.wouterplanet.com.ico",
     "slug": "merch-site",
-    "status": "down",
-    "uptime": "99.16%",
-    "uptimeDay": "67.36%",
-    "uptimeWeek": "83.88%",
-    "uptimeMonth": "83.50%",
-    "uptimeYear": "97.26%",
+    "status": "up",
+    "uptime": "99.14%",
+    "uptimeDay": "56.06%",
+    "uptimeWeek": "80.87%",
+    "uptimeMonth": "82.80%",
+    "uptimeYear": "97.20%",
     "time": 324,
-    "timeDay": 590,
-    "timeWeek": 312,
+    "timeDay": 587,
+    "timeWeek": 311,
     "timeMonth": 264,
     "timeYear": 312,
     "dailyMinutesDown": {
@@ -101,7 +101,7 @@
       "2026-07-15": 151,
       "2026-07-16": 291,
       "2026-07-17": 396,
-      "2026-07-18": 128
+      "2026-07-18": 431
     }
   },
   {
@@ -109,15 +109,15 @@
     "url": "https://blog.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.wouterplanet.com.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "99.16%",
-    "uptimeDay": "67.41%",
-    "uptimeWeek": "83.91%",
-    "uptimeMonth": "83.52%",
-    "uptimeYear": "97.26%",
+    "status": "up",
+    "uptime": "99.15%",
+    "uptimeDay": "56.11%",
+    "uptimeWeek": "80.91%",
+    "uptimeMonth": "82.83%",
+    "uptimeYear": "97.21%",
     "time": 1046,
-    "timeDay": 444,
-    "timeWeek": 382,
+    "timeDay": 418,
+    "timeWeek": 383,
     "timeMonth": 414,
     "timeYear": 1018,
     "dailyMinutesDown": {
@@ -184,7 +184,7 @@
       "2026-07-15": 151,
       "2026-07-16": 291,
       "2026-07-17": 395,
-      "2026-07-18": 128
+      "2026-07-18": 431
     }
   },
   {
@@ -212,15 +212,15 @@
     "url": "https://cdn.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.wouterplanet.com.ico",
     "slug": "cdn",
-    "status": "down",
-    "uptime": "99.16%",
-    "uptimeDay": "67.46%",
-    "uptimeWeek": "83.94%",
-    "uptimeMonth": "83.54%",
-    "uptimeYear": "97.27%",
+    "status": "up",
+    "uptime": "99.15%",
+    "uptimeDay": "56.17%",
+    "uptimeWeek": "80.94%",
+    "uptimeMonth": "82.85%",
+    "uptimeYear": "97.21%",
     "time": 239,
-    "timeDay": 224,
-    "timeWeek": 214,
+    "timeDay": 220,
+    "timeWeek": 216,
     "timeMonth": 215,
     "timeYear": 237,
     "dailyMinutesDown": {
@@ -287,7 +287,7 @@
       "2026-07-15": 150,
       "2026-07-16": 291,
       "2026-07-17": 393,
-      "2026-07-18": 128
+      "2026-07-18": 431
     }
   },
   {
@@ -337,14 +337,14 @@
     "url": "$URL_ADMINISTRATION",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "administration",
-    "status": "down",
-    "uptime": "99.16%",
-    "uptimeDay": "67.52%",
-    "uptimeWeek": "83.97%",
-    "uptimeMonth": "83.56%",
-    "uptimeYear": "97.26%",
+    "status": "up",
+    "uptime": "99.14%",
+    "uptimeDay": "56.22%",
+    "uptimeWeek": "80.97%",
+    "uptimeMonth": "82.87%",
+    "uptimeYear": "97.20%",
     "time": 221,
-    "timeDay": 191,
+    "timeDay": 187,
     "timeWeek": 191,
     "timeMonth": 194,
     "timeYear": 215,
@@ -413,7 +413,7 @@
       "2026-07-15": 150,
       "2026-07-16": 291,
       "2026-07-17": 391,
-      "2026-07-18": 129
+      "2026-07-18": 431
     }
   },
   {
@@ -421,16 +421,16 @@
     "url": "$URL_FUN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fun-delivery-service",
-    "status": "down",
-    "uptime": "99.17%",
-    "uptimeDay": "67.56%",
-    "uptimeWeek": "84.00%",
-    "uptimeMonth": "83.58%",
-    "uptimeYear": "97.27%",
+    "status": "up",
+    "uptime": "99.15%",
+    "uptimeDay": "56.27%",
+    "uptimeWeek": "80.99%",
+    "uptimeMonth": "82.88%",
+    "uptimeYear": "97.21%",
     "time": 762,
-    "timeDay": 608,
-    "timeWeek": 692,
-    "timeMonth": 814,
+    "timeDay": 474,
+    "timeWeek": 689,
+    "timeMonth": 812,
     "timeYear": 835,
     "dailyMinutesDown": {
       "2026-04-12": 224,
@@ -496,7 +496,7 @@
       "2026-07-15": 150,
       "2026-07-16": 291,
       "2026-07-17": 391,
-      "2026-07-18": 129
+      "2026-07-18": 432
     }
   },
   {
