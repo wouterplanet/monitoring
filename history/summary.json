@@ -26,16 +26,16 @@
     "url": "https://merch.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/merch.wouterplanet.com.ico",
     "slug": "merch-site",
-    "status": "down",
-    "uptime": "99.15%",
-    "uptimeDay": "53.94%",
-    "uptimeWeek": "80.22%",
-    "uptimeMonth": "82.65%",
-    "uptimeYear": "97.21%",
+    "status": "up",
+    "uptime": "99.14%",
+    "uptimeDay": "51.84%",
+    "uptimeWeek": "79.60%",
+    "uptimeMonth": "82.51%",
+    "uptimeYear": "97.20%",
     "time": 324,
     "timeDay": 519,
-    "timeWeek": 304,
-    "timeMonth": 263,
+    "timeWeek": 305,
+    "timeMonth": 264,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2026-04-12": 127,
@@ -101,7 +101,7 @@
       "2026-07-15": 151,
       "2026-07-16": 291,
       "2026-07-17": 396,
-      "2026-07-18": 497
+      "2026-07-18": 559
     }
   },
   {
@@ -109,16 +109,16 @@
     "url": "https://blog.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.wouterplanet.com.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "99.15%",
-    "uptimeDay": "54.02%",
-    "uptimeWeek": "80.25%",
-    "uptimeMonth": "82.67%",
-    "uptimeYear": "97.21%",
-    "time": 1044,
-    "timeDay": 408,
-    "timeWeek": 377,
-    "timeMonth": 411,
+    "status": "up",
+    "uptime": "99.14%",
+    "uptimeDay": "51.91%",
+    "uptimeWeek": "79.63%",
+    "uptimeMonth": "82.53%",
+    "uptimeYear": "97.20%",
+    "time": 1043,
+    "timeDay": 400,
+    "timeWeek": 385,
+    "timeMonth": 413,
     "timeYear": 1015,
     "dailyMinutesDown": {
       "2026-04-12": 127,
@@ -184,7 +184,7 @@
       "2026-07-15": 151,
       "2026-07-16": 291,
       "2026-07-17": 395,
-      "2026-07-18": 497
+      "2026-07-18": 559
     }
   },
   {
@@ -212,15 +212,15 @@
     "url": "https://cdn.wouterplanet.com",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.wouterplanet.com.ico",
     "slug": "cdn",
-    "status": "down",
-    "uptime": "99.15%",
-    "uptimeDay": "54.08%",
-    "uptimeWeek": "80.28%",
-    "uptimeMonth": "82.70%",
-    "uptimeYear": "97.21%",
-    "time": 239,
-    "timeDay": 212,
-    "timeWeek": 213,
+    "status": "up",
+    "uptime": "99.14%",
+    "uptimeDay": "51.98%",
+    "uptimeWeek": "79.67%",
+    "uptimeMonth": "82.55%",
+    "uptimeYear": "97.20%",
+    "time": 240,
+    "timeDay": 219,
+    "timeWeek": 216,
     "timeMonth": 215,
     "timeYear": 237,
     "dailyMinutesDown": {
@@ -287,7 +287,7 @@
       "2026-07-15": 150,
       "2026-07-16": 291,
       "2026-07-17": 393,
-      "2026-07-18": 497
+      "2026-07-18": 559
     }
   },
   {
@@ -337,16 +337,16 @@
     "url": "$URL_ADMINISTRATION",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "administration",
-    "status": "down",
-    "uptime": "99.15%",
-    "uptimeDay": "54.15%",
-    "uptimeWeek": "80.32%",
-    "uptimeMonth": "82.72%",
-    "uptimeYear": "97.21%",
+    "status": "up",
+    "uptime": "99.14%",
+    "uptimeDay": "52.05%",
+    "uptimeWeek": "79.70%",
+    "uptimeMonth": "82.58%",
+    "uptimeYear": "97.20%",
     "time": 221,
     "timeDay": 186,
-    "timeWeek": 191,
-    "timeMonth": 193,
+    "timeWeek": 193,
+    "timeMonth": 194,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2026-04-12": 70,
@@ -413,7 +413,7 @@
       "2026-07-15": 150,
       "2026-07-16": 291,
       "2026-07-17": 391,
-      "2026-07-18": 497
+      "2026-07-18": 559
     }
   },
   {
@@ -421,16 +421,16 @@
     "url": "$URL_FUN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fun-delivery-service",
-    "status": "down",
+    "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "54.21%",
-    "uptimeWeek": "80.35%",
-    "uptimeMonth": "82.74%",
-    "uptimeYear": "97.22%",
-    "time": 763,
-    "timeDay": 553,
-    "timeWeek": 688,
-    "timeMonth": 808,
+    "uptimeDay": "52.10%",
+    "uptimeWeek": "79.73%",
+    "uptimeMonth": "82.59%",
+    "uptimeYear": "97.21%",
+    "time": 764,
+    "timeDay": 554,
+    "timeWeek": 686,
+    "timeMonth": 807,
     "timeYear": 834,
     "dailyMinutesDown": {
       "2026-04-12": 127,
@@ -496,7 +496,7 @@
       "2026-07-15": 150,
       "2026-07-16": 291,
       "2026-07-17": 391,
-      "2026-07-18": 497
+      "2026-07-18": 559
     }
   },
   {
